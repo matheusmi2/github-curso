@@ -1,0 +1,3 @@
+ls = mostrar diretorios
+cd = mover para pasta
+mkdir = criar pasta
