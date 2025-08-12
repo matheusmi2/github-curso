@@ -2,4 +2,10 @@ git init . = cria um repo git na pasta atual
 git status = mostra o status do trabalho
 git add = adiciona arquivo para ser commitado
 git commit -m = faz commit que estava para ser commitado
-git log = mostra todo o historico de commit
+
+## FLUXO DE TRABALHO
+1. criar diretorio
+2. git init
+3. editar ou cria arquivo
+4. git status
+5. git add
