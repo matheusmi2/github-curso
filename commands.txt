@@ -3,3 +3,4 @@ cd = mover para pasta
 mkdir = criar pasta
 pwd = mostra diretorio de trabalho
 rm -rf = remove de forma recursiva e forcada todos os diretorios
+novo comando
